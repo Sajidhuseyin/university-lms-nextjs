@@ -36,7 +36,7 @@ styles/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sajidhuseyin/university-lms-nextjs.git
+git clone  https://github.com/Sajidhuseyin/university-lms-nextjs.git
 ```
 
 Navigate to the project:
@@ -71,13 +71,13 @@ npm run build
 
 ## 📸 Screenshots
 
-screenshots of the homepage, courses page, teachers page, and dashboard here after deployment.
+ screenshots of the homepage, courses page, teachers page, and dashboard here after deployment.
 
 ## 👨‍💻 Author
 
 **Sajid Hussain**
 
-- GitHub:  https://github.com/Sajidhuseyin/
+- GitHub: https://github.com/Sajidhuseyin/university-lms-nextjs
 - LinkedIn:  https://www.linkedin.com/in/sajidhuseyin/
 
 ## 📄 License
