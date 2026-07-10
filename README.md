@@ -1,40 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+ # 🎓 University LMS
 
-## Getting Started
+A modern and responsive University Learning Management System (LMS) built with **Next.js**. This project demonstrates component-based architecture, client-side routing, responsive design, and API integration.
 
-First, run the development server:
+## 🚀 Features
+
+- Responsive landing page
+- Modern navigation bar with mobile hamburger menu
+- Course listing with search functionality
+- Dynamic course details page
+- Teachers page
+- Student dashboard
+- Contact page
+- API integration with loading and error handling
+- Responsive design for desktop, tablet, and mobile
+
+## 🛠️ Technologies Used
+
+- Next.js
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- React Icons
+
+## 📂 Project Structure
+
+```
+pages/
+components/
+public/
+styles/
+```
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sajidhuseyin/university-lms-nextjs.git
+```
+
+Navigate to the project:
+
+```bash
+cd university-lms
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🏗️ Build for Production
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+```bash
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+screenshots of the homepage, courses page, teachers page, and dashboard here after deployment.
 
-To learn more about Next.js, take a look at the following resources:
+## 👨‍💻 Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+**Sajid Hussain**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- GitHub:  https://github.com/Sajidhuseyin/
+- LinkedIn:  https://www.linkedin.com/in/sajidhuseyin/
 
-## Deploy on Vercel
+## 📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+This project is created for educational and portfolio purposes.
