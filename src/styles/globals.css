@@ -151,6 +151,7 @@ font-size:18px;
 
 background:#facc15;
 color:#111827;
+margin-top:10px;
 padding:14px 28px;
 border:none;
 border-radius:10px;
@@ -304,7 +305,44 @@ color:#2563eb;
 margin-bottom:20px;
 
 }
+/* TEACHER PROFILE */
 
+.teacher-profile{
+max-width:800px;
+margin:40px auto;
+padding:40px;
+background:white;
+border-radius:20px;
+box-shadow:0 10px 30px rgba(0,0,0,.08);
+text-align:center;
+}
+
+.teacher-profile img{
+margin-bottom:25px;
+}
+
+.teacher-profile h1{
+color:#2563eb;
+margin-bottom:10px;
+}
+
+.teacher-profile h2{
+margin-top:30px;
+color:#1e3a8a;
+}
+
+.teacher-profile p{
+font-size:17px;
+line-height:1.8;
+color:#4b5563;
+}
+
+.teacher-profile ul{
+text-align:left;
+max-width:500px;
+margin:20px auto;
+line-height:2;
+}
 
 /* Statistics Section */
 

@@ -39,7 +39,7 @@ knowledge and hands-on learning experience.
 
 </ul>
 
-<button>
+<button className="btn">
 
 Enroll Now
 
