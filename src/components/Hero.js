@@ -5,6 +5,10 @@ export default function Hero() {
   return (
     <div className="hero">
 
+      <div className="hero-content">
+        
+      </div>
+
       <div>
         <h1>University LMS</h1>
 
