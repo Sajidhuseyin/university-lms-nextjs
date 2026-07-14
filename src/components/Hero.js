@@ -27,7 +27,7 @@ export default function Hero() {
 
       <div>
         <Image
-          src="/nstudent.png"
+          src="/newstudent.png"
           alt="Hero Image"
           width={500}
           height={350}
