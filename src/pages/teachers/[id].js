@@ -13,7 +13,7 @@ export default function TeacherProfile() {
   );
 
   if (!teacher) {
-    return <h2 className="container">Teacher not found</h2>;
+    return <h2 className="container">Loading...</h2>;
   }
 
   return (
